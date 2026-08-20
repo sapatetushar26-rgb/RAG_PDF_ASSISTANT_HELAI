@@ -1,0 +1,5 @@
+.env
+.streamlit/config.toml
+venv/
+chroma_db/
+__pycache__/
